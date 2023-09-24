@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vanessa and I'm an aspiring software developer from St. John's, NL, Canada</h2>
+<h2 align="left">Hi 👋! My name is <em><strong>Vanessa</strong></em> and I'm an <strong>Aspiring Software Developer and Cybersecurity Enthusiast<strong> from <em>St. John's, NL, Canada<em></em></h2>
 
 ###
 
