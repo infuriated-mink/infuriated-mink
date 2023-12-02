@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vanessa and I'm an Aspiring Software Developer and Cybersecurity Enthusiast from St. John's, NL, Canada</h2>
+<h2 align="left">Hi there! You've reached the profile of a person that is combining financial expertise with a passion for cybersecurity, I'm dedicated to crafting digital solutions that marry efficiency, and security. Let's code a seamless bridge between finance, technology and cybersecurity! </h2>
 
 ###
 
