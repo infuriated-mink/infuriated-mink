@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! You've reached the profile of a person that is combining financial expertise with a passion for cybersecurity, I'm dedicated to crafting digital solutions that marry efficiency, and security. Let's code a seamless bridge between finance, technology and cybersecurity! </h2>
+<h2 align="left">Hi there! Welcome to the profile where financial acumen meets a fervor for cybersecurity and AI. I am committed to sculpting digital solutions that seamlessly intertwine efficiency, security, and the ever-evolving landscape of technology. Join me in coding a harmonious bridge that connects finance, technology, and cybersecurity! </h2>
 
 ###
 
