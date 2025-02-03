@@ -1,7 +1,7 @@
 ### About Me:
 Hi there! Welcome to my profile, where financial acumen meets a passion for cybersecurity and AI. I am dedicated to creating digital solutions that seamlessly combine efficiency, security, and the ever-evolving landscape of technology. Join me in building a harmonious bridge connecting finance, technology, and cybersecurity!</br>
 
-🔭 I’m currently working on an app that allows users to book and manage residential cleaning services, both as consumers and cleaners.<br>🌱 I’m currently learning data structures, algorithms, and software design.<br>💬 Ask me about my journey into the tech ecosystem.<br>⚡ Fun fact: When I'm not focused on software development, you'll find me hiking with my dog in tow.
+🔭 I’m currently working on an app that allows users to book and manage residential cleaning services, both as consumers and cleaners.<br>🌱 I’m currently learning Automated Testing with Java.<br>💬 Ask me about my journey into the tech ecosystem.<br>⚡ Fun fact: When I'm not focused on software development, you'll find me hiking with my dog in tow.
 
 ### Contact Me:
   <a href="https://www.linkedin.com/in/ricevanessa" target="_blank">
